@@ -4,7 +4,6 @@ class Car implements Comparable<Car>{
     int Modelno;
     String Modelname;
     String Owner;
-
     int year;
 
 
